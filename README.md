@@ -28,8 +28,8 @@ pip install -r requirements.txt
 
 3. Configure the bot token.
 
-- Option A — Edit `config.py` and set your `BOT_TOKEN` variable.
-- Option B — Use environment variables. Example `.env` (if you prefer):
+- Option A — Edit `config.py`, `bot.py` and set your `BOT_TOKEN` variable.
+- 
 
 ```
 BOT_TOKEN=123456:ABC-DEF...your_token_here
